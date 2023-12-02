@@ -1,5 +1,6 @@
 # Dark-Souls-GUI
 SDEV 140 - Introduction to Software Development
+
 The "Dark Souls GUI" final project is a Python-based graphical user interface (GUI) application designed using the tkinter library. 
 Inspired by the immersive world of the Dark Souls game series, this project aims to create an interactive program that captures the essence and aesthetics of the game.
 
